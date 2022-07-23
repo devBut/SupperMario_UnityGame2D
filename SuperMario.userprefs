@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlatForm.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="205" Column="1" />
+      <File FileName="Assets\Scripts\Scoure.cs" Line="11" Column="17" />
+      <File FileName="Assets\Scripts\WinGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GamePlayScript.cs" Line="24" Column="39" />
+      <File FileName="Assets\Scripts\StartGame.cs" Line="10" Column="41" />
+      <File FileName="Assets\Scripts\dan.cs" Line="29" Column="25" />
+      <File FileName="Assets\Scripts\EnemyAI.cs" Line="132" Column="1" />
+      <File FileName="Assets\Scripts\PlatForm.cs" Line="28" Column="3" />
+      <File FileName="Assets\Scripts\Quaydau.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
